@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "ChatGPT",
+    "description": "Advanced AI chatbot for conversations and problem-solving.\nHelps with coding, writing, and learning tasks.",
+    "price": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+    "status": "popular"
+  },
+  {
+    "id": 2,
+    "title": "Midjourney",
+    "description": "AI tool for generating high-quality images from text prompts.\nPopular among designers and digital artists.",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png",
+    "status": "favorite"
+  },
+  {
+    "id": 3,
+    "title": "Notion AI",
+    "description": "AI-powered writing and productivity assistant inside Notion.\nHelps generate notes, summaries, and ideas.",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "status": "popular"
+  },
+  {
+    "id": 4,
+    "title": "Grammarly",
+    "description": "AI writing assistant for grammar and style corrections.\nImproves clarity, tone, and professionalism.",
+    "price": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Grammarly_logo.svg",
+    "status": "most wanted"
+  },
+  {
+    "id": 5,
+    "title": "Runway ML",
+    "description": "AI video editing and generation platform.\nCreate cinematic content using machine learning.",
+    "price": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/RunwayML_logo.png",
+    "status": "favorite"
+  },
+  {
+    "id": 6,
+    "title": "DALL·E",
+    "description": "AI system that generates images from natural language prompts.\nGreat for creative visuals and concept art.",
+    "price": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/DALL-E_Logo.png",
+    "status": "popular"
+  },
+  {
+    "id": 7,
+    "title": "Copy.ai",
+    "description": "AI copywriting tool for marketing and content creation.\nGenerates ads, blogs, and social media posts.",
+    "price": 0,
+    "image": "https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/62a9f7b1c7b1c3f1bb4f0f9c_copyai-logo.png",
+    "status": "most wanted"
+  },
+  {
+    "id": 8,
+    "title": "Jasper AI",
+    "description": "AI content generator focused on marketing and SEO.\nHelps create long-form blog posts and ads.",
+    "price": 39,
+    "image": "https://assets-global.website-files.com/60d2c3d1c3d59f2b8b5e5e3c/60d2c3d1c3d59f4a4d5e5e40_jasper-logo.svg",
+    "status": "popular"
+  },
+  {
+    "id": 9,
+    "title": "Synthesia",
+    "description": "AI video generator using virtual avatars.\nCreate professional videos without cameras.",
+    "price": 30,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Synthesia_logo.png",
+    "status": "favorite"
+  },
+  {
+    "id": 10,
+    "title": "Pictory",
+    "description": "AI tool to turn text into engaging videos.\nPerfect for YouTube and social media creators.",
+    "price": 19,
+    "image": "https://pictory.ai/wp-content/uploads/2023/01/logo-new.png",
+    "status": "most wanted"
+  }
+]

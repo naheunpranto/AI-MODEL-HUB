@@ -1,12 +1,21 @@
 
 import './App.css'
+import Banner from './Banner/Banner'
+import Footer from './Footer/Footer'
+import Navbar from './Navbar/Navbar'
 
 function App() {
+
   
 
   return (
     <>
-      <h1>Hello react</h1>
+      <Navbar/>
+
+      <Banner/>
+
+      <Footer/>
+
     </>
   )
 }
